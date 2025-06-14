@@ -1,0 +1,19 @@
+{
+  "name": "discord-changing-status",
+  "version": "1.0.0",
+  "description": "Auto Changing On Your Account Status.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.10.1",
+    "fs": "^0.0.1-security"
+  },
+  "author": "AtaGalata",
+  "license": "MIT",
+  "engines": {
+    "node": "v18.13.0",
+    "npm": "8.19.3"
+  }
+}
